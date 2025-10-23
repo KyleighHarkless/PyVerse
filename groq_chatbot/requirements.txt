@@ -1,0 +1,6 @@
+langchain 
+python-dotenv
+pydantic
+duckduckgo-search
+ddgs
+langchain-community 
